@@ -42,5 +42,5 @@ This repository contains `Leaflet-Part-1` and `Leaflet-Part-2`. `Leaflet-Part-1`
     - Click on the earthquake markers to view detailed information.
 
 ## Data Sources
-    - [Earthquake](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php "Earthquake data:")
-    - [TectonicPlate](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json "Tectonic Plate data:")
+    - Earthquake: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+    - TectonicPlate: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json
